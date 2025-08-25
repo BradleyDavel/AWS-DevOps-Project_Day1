@@ -149,11 +149,3 @@ I opened index.jsp in VS Code via Remote-SSH, edited the HTML (e.g., change the 
 
 ![Image](http://learn.nextwork.org/sparkling_indigo_heroic_bat/uploads/aws-devops-vscode_7a1de541)
 
----
-
-## Using nano
-
----
-
----
-
