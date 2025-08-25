@@ -1,3 +1,12 @@
+<!-- Badges -->
+![AWS](https://img.shields.io/badge/AWS-EC2-orange?logo=amazon-aws&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-blue?logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-Build-red?logo=apachemaven&logoColor=white)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-0078d7?logo=visualstudiocode&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Learning-success?logo=githubactions&logoColor=white)
+
+<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
+
 <img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Set Up a Web App in the Cloud
