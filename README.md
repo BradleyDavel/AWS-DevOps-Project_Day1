@@ -122,7 +122,16 @@ Java is required in this project because the lab targets a simple Java web appli
 
 ## Create the Application
 
-{✍️ How did you create a Java web app? I generated a Java web app using the command...}
+To do this, use these
+commands: 
+
+mvn archetype:generate \
+-DgroupId=com.nextwork.app \
+-DartifactId=nextwork-web-project \
+-DarchetypeArtifactId=maven-archetype-webapp \
+-DinteractiveMode=false
+
+When you run mvn commands, you're asking Maven to perform tasks (like creating a new project or building an existing one). The mvn archetype:generate command specifically tells Maven to create a new project from a template (which Maven calls an archetype). This command sets up a basic structure for your project, so you don't have to start from scratch.
 
 I installed Remote-SSH so VS Code can open the EC2 instance as a remote workspace, letting me edit files, run builds, and manage the app directly on the server over an encrypted SSH connection.
 
