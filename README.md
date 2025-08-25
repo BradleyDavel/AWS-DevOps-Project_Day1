@@ -145,7 +145,7 @@ The src folder holds Java source code and resources; the webapp folder contains 
 
 The index.jsp is the default landing JSP for the application, rendered by the Java web container when I access the app’s root URL
 
-I opened index.jsp in VS Code via Remote-SSH, edited the HTML (e.g., change the <h1> message), saved the file, and rebuilt/redeployed the app with Maven as needed.
+I opened `index.jsp` in VS Code via Remote-SSH, edited the HTML (e.g., change the `<h1>` message), saved the file, and rebuilt/redeployed the app with Maven as needed.
 
 ![Image](http://learn.nextwork.org/sparkling_indigo_heroic_bat/uploads/aws-devops-vscode_7a1de541)
 
